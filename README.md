@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my summer research experience in 2021
 - 📫 How to reach me: </br></br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuchun-cathy-feng/)
-
-- 😄 Pronouns: she/her
