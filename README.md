@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CathyF9600)](https://github.com/anuraghazra/github-readme-stats)
+[![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CathyF9600&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently studying Engineering Science in University of Toronto
 - 🌱 I’m currently learning theories and skills focusing on robotics/aerospace engineering design
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
 - 💬 Ask me about my summer research experience in 2021
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuchun-cathy-feng/)
+- 📫 How to reach me: 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuchun-cathy-feng/)
+
 - 😄 Pronouns: she/her
