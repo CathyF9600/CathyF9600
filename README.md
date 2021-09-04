@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CathyF9600&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently studying Engineering Science in University of Toronto
-- 🌱 I’m currently learning theories and skills focusing on robotics/aerospace engineering design
+- 🌱 I’m currently learning theories and skills focusing on Robotics/Aerospace engineering design
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
 - 💬 Ask me about my summer research experience in 2021
 - 📫 How to reach me: </br></br>
