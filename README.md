@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying Engineering Science in University of Toronto
 - 🌱 I’m currently learning theories and skills focusing on Robotics/Aerospace engineering design
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
-- 💬 Ask me about my summer research experience in 2021
 - 📫 How to reach me: </br></br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuchun-cathy-feng/)
