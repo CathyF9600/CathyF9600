@@ -41,9 +41,9 @@
 ---
 
 ### :fire: My Stats :
-<div id="header" align="center">
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CathyF9600&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CathyF9600)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
+</p>
