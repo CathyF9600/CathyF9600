@@ -35,5 +35,5 @@
   <img src="    https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="  https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="MATLAB" width="40" height="40"/>
-  <img src="   https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" **alt="pytorch" width="40" height="40"/>
+  <img src="   https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
 </div>
