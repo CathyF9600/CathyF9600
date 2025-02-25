@@ -36,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Ros_logo.svg" width="40" height="40"/>
 </div>
 
 ---
