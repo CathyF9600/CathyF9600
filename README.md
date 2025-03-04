@@ -25,6 +25,8 @@
 ### :woman_technologist: Experience :
 - RL Researcher Intern @ [(MIDI) Lab](https://amyzhang.github.io/) ([Our Work](https://github.com/CalCharles/air-hockey-rl))
 - NLP Developer @ [RBC Borealis](https://rbcborealis.com/)
+- Thesis Student @ [University of Toronto Institute for Aerospace Studies](https://www.utias.utoronto.ca/) 
+- Research Intern @ [University of Toronto  Dynamic Optimization & Operations Management Lab](https://cglee.mie.utoronto.ca/research-lab/) ([Our Work](https://doi.org/10.1016/j.eswa.2023.120914))
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
