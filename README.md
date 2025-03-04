@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
 ### :woman_technologist: Experience :
 - RL Researcher Intern @ [(MIDI) Lab](https://amyzhang.github.io/) ([Our Work](https://github.com/CalCharles/air-hockey-rl))
-- NLP Developer @ [RBC Borealis](https://rbcborealis.com/) ([Our Work](https://rbcborealis.com/applications/lumina-platform/))
+- NLP Developer @ [RBC Borealis](https://rbcborealis.com/) ([Work](https://rbcborealis.com/applications/lumina-platform/)) [Involved](https://rbcborealis.com/applications/nomi-forecast/)
 - Thesis Student @ [University of Toronto Institute for Aerospace Studies](https://www.utias.utoronto.ca/) ([My Work](https://github.com/CathyF9600/pdsnet-bev))
 - Research Intern @ University of Toronto [Dynamic Optimization & Operations Management Lab](https://cglee.mie.utoronto.ca/research-lab/) ([Our Work](https://doi.org/10.1016/j.eswa.2023.120914))
 ---
