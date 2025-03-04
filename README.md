@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning theories and skills focusing on Robotics engineering and AI
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
 ### :woman_technologist: Experience :
-- RL Researcher Intern @ [(MIDI) Lab](https://amyzhang.github.io/)
+- RL Researcher Intern @ [(MIDI) Lab](https://amyzhang.github.io/) ([Our Work](https://github.com/CalCharles/air-hockey-rl))
 - NLP Developer @ [RBC Borealis](https://rbcborealis.com/)
 ---
 
