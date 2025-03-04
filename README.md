@@ -22,7 +22,8 @@
 - 🔭 I’m currently studying Engineering Science in University of Toronto
 - 🌱 I’m currently learning theories and skills focusing on Robotics engineering and AI
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
-
+### :woman_technologist: Experience :
+- Research Intern @ [(MIDI) Lab](https://amyzhang.github.io/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
