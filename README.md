@@ -23,6 +23,7 @@
 - 🌱 I’m currently learning theories and skills focusing on Robotics engineering and AI
 - 👯 I’m looking to collaborate on Robotics and Machine Learning projects
 ### :woman_technologist: Experience :
+- My capstone focused on drone navigation and planning ([Our Work](https://github.com/CathyF9600/capstone_ws))
 - RL Researcher Intern @ [(MIDI) Lab](https://amyzhang.github.io/) ([Our Work](https://github.com/CalCharles/air-hockey-rl))
 - NLP Developer @ [RBC Borealis](https://rbcborealis.com/) ([Lumina](https://rbcborealis.com/applications/lumina-platform/), [NOMI](https://rbcborealis.com/applications/nomi-forecast/))
 - Thesis Student @ [University of Toronto Institute for Aerospace Studies](https://www.utias.utoronto.ca/) ([My Work](https://github.com/CathyF9600/pdsnet-bev))
