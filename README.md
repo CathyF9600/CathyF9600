@@ -26,7 +26,7 @@
 - My capstone focused on drone navigation and planning ([Our Work](https://github.com/CathyF9600/capstone_ws))
 - RL Researcher Intern @ [(MIDI) Lab](https://amyzhang.github.io/) ([Our Work](https://github.com/CalCharles/air-hockey-rl))
 - NLP Developer @ [RBC Borealis](https://rbcborealis.com/) ([Lumina](https://rbcborealis.com/applications/lumina-platform/), [NOMI](https://rbcborealis.com/applications/nomi-forecast/))
-- Thesis Student @ [University of Toronto Institute for Aerospace Studies](https://www.utias.utoronto.ca/) ([My Work](https://github.com/CathyF9600/pdsnet-bev))
+- My thesis focused on self-driving perception model @ [UTIAS](https://www.utias.utoronto.ca/) ([My Work](https://github.com/CathyF9600/pdsnet-bev))
 - Research Intern @ University of Toronto [Dynamic Optimization & Operations Management Lab](https://cglee.mie.utoronto.ca/research-lab/) ([Our Work](https://doi.org/10.1016/j.eswa.2023.120914)) ([Google Scholar](https://scholar.google.ca/citations?hl=en&view_op=list_works&gmla=ANZ5fUPEQPx3w18lQxa8jtaMIFGf4T9KD8aL-_p6s2BHIs4jbI5eI4dVKSo2mecO9Uo2jOCBEeA5s0DWCDvNwQ&user=HhpvdeYAAAAJ))
 ---
 
